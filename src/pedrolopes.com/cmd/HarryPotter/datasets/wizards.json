@@ -1,0 +1,36 @@
+{
+    "name": "Phii",
+    "age": 22,
+    "house": "Griffindor",
+    "hp": 100,
+    "spells": [
+        {
+            "name": "Expelliarmus",
+            "type": "Offensive",
+            "value": 10
+        },
+        {
+            "name": "Protego Totalum",
+            "type": "Defensive",
+            "value": 25
+        }
+    ]
+}
+{
+    "name": "Pedro",
+    "age": 23,
+    "house": "Ravenclaw",
+    "hp": 100,
+    "spells": [
+        {
+            "name": "Locomotor Mortis",
+            "type": "Offensive",
+            "value": 10
+        },
+        {
+            "name": "Evanesco",
+            "type": "Defensive",
+            "value": 15
+        }
+    ]
+}
