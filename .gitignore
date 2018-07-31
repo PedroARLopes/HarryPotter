@@ -330,4 +330,4 @@ ASALocalRun/
 .mfractor/
 
 # Window go build
-.exe
+*.exe
